@@ -2,6 +2,8 @@
 
 ## 每週勾選作業
 
+<!--
+
 | 日期 | 週次 | 上課練習                                               | 勾選作業                                                         | 其他習題 | 檢討                             |
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
 | 0305 |  01  |     [287 - 喵][neoj-287] <br>  [289 - 福祿猴的反敗][neoj-289]  |     [803 - 分數統計][neoj-803]<br>[6002 - 小普敲鍵盤][neoj-6002]    |          | [北區影片](tp-review-video-w1) <br> [竹區影片][hc-review-video-w1] [竹區簡報][hc-review-ppt-w1]     |
@@ -117,3 +119,5 @@
 [hc-review-ppt-w16]:https://hackmd.io/@XYFC128/S1BxN1i9q
 [tp-review-video-w16]:https://youtu.be/JKByGX7ScDc
 [tp-review-ppt-w16]:https://docs.google.com/presentation/d/1Qjuwm8Rr-hz2nBER7YFBtrrDwNelgUmRaLl-JMl1y_o/edit?usp=sharing
+
+-->/
