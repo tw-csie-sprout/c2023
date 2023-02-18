@@ -4,5 +4,4 @@
 [課程作業](homework.md)
 [大作業一](project1.md)
 [大作業二](project2.md)
-[Facebook 討論區](https://www.facebook.com/groups/263865292587207)
 [線上批改系統](https://neoj.sprout.tw/)
