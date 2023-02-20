@@ -19,12 +19,12 @@
 ## 第二階段
 | 日期 | 週次 | 大作業二 | 主題                                                        |
 | :--: | :--: | :--------------------------------- | ----------------------------------------------------------- |
-| 0506 |  10  |           | 結構(struct)、struct(*ptr)、簡單介紹 class、template                                                                        |
-| 0513 |  11  |           | 複習class、new/delete、實作動態陣列                                                                                              |
-| 0520 |  12  |           | linked list、STL (資料結構, pair, vector, queue, stack, iterator)                                                          |
-| 0527 |  13  |  公布  | C++ string (sstream)、C++ file IO、try-except、大作業二                                                                |
-| 0603 |  14  |           | 複雜度概念、基礎排序、實用 library function (sort(cmp), next_permutation、亂數)                         |
-| 0610 |  15  |           | 課程複習、彈性時間                                                                                                                           |
-| 0617 |  16  |  <font color="#f00">繳交期限 </font>   | <font color="#888">(線上影片)  檢討大作業二   </font>              |
+| 0506 |  10  |           | <font color="#f00">第二階段準備週，本週放假 </font>                                                                        |
+| 0513 |  11  |           | struct、struct(*ptr)、簡單介紹 class、template                                                                                             |
+| 0520 |  12  |           | 複習class、new/delete、實作動態陣列                                                          |
+| 0527 |  13  |  公布  | STL (資料結構, pair, vector, queue, stack, iterator)、C++ string、C++ file IO、try-except、大作業二                                                                |
+| 0603 |  14  |           | linked list、複雜度概念、基礎排序                         |
+| 0610 |  15  |           | 實用 library function (sort(cmp), next_permutation、亂數、sstream)、彈性時間                                                                                                                           |
+| 0617 |  16  |     | <font color="#888">(線上影片)  課程複習   </font>              |
 | 0624 |  17  |           | <font color="#f00">因端午節連假，故本週放假 </font>                                                                   |
-| 0701 |  18  |           | 第二階段檢定考試                                            |
+| 0701 |  18  |  <font color="#f00">繳交期限 </font>         | 第二階段檢定考試                                            |
