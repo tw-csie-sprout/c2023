@@ -11,4 +11,4 @@
 
 [tp-variables]: https://slides.com/allen522019/20220305-852e28
 
-[hs-week1course]: https://drive.google.com/file/d/1FPSA8-FOaT8H-FbJotoqM2MZyG9kFCY2/view?usp=sharing
+[hs-week1course]: https://drive.google.com/file/d/1CXwG-wYO3OAAdh3qfO4HlmB1nZ7mYGR-/view?usp=sharing
