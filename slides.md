@@ -5,6 +5,8 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   課程介紹                         |  [Week1-0 課程介紹][tp-introduction]  |    |    |
 |   Hello World!                    |    |    |    |
-|   基礎I/O、變數、運算子  |    |    |    |
+|   基礎I/O、變數、運算子  |  [Week1-2 變數][tp-variables]  |    |    |
 
 [tp-introduction]: https://docs.google.com/presentation/d/1gryvGe6K3oip4e50d8LQ4ReqEG2kArjs/edit?usp=sharing&ouid=106647981009000784070&rtpof=true&sd=true
+
+[tp-variables]: https://slides.com/allen522019/20220305-852e28
