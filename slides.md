@@ -5,7 +5,7 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   課程介紹                         |  [Week1-0 課程介紹][tp-introduction]  |  [Week1-0 課程介紹][hc-introduction]   | [北區影片][tp-yt-introduction]   |
 |   Hello World!                    |  [Week1-1 Hello World!][tp-helloworld]  |    | [北區影片][tp-yt-helloworld]    |
-|   基礎I/O、變數、運算子  |  [Week1-2 變數][tp-variables]  | [Week1 基礎程式][hc-week1course] | [竹區影片][hc-yt-week1course] |
+|   基礎I/O、變數、運算子  |  [Week1-2 變數][tp-variables]  | [Week1 基礎程式][hc-week1course] | [北區影片][tp-yt-variables]  [竹區影片][hc-yt-week1course] |
 
 [tp-introduction]: https://docs.google.com/presentation/d/1gryvGe6K3oip4e50d8LQ4ReqEG2kArjs/edit?usp=sharing&ouid=106647981009000784070&rtpof=true&sd=true
 [hc-introduction]: https://drive.google.com/file/d/1vNKLhEMjy_PmKC6X161fExvJEwceZYf7/view?usp=sharing
@@ -15,3 +15,4 @@
 [tp-yt-introduction]: https://youtu.be/CaEAMLrn-kM
 [tp-yt-helloworld]: https://youtu.be/79gUkU7Jct4
 [hc-yt-week1course]: https://youtu.be/B9sjhA5kwOk
+[tp-yt-variables]: https://youtu.be/LEUKWIHGcT8
