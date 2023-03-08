@@ -5,7 +5,7 @@
 | 日期 | 週次 | 上課練習                                               | 勾選作業                                                         | 其他習題 | 檢討                             |
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
 | 0304 |  01  | [288 - 練習打字][neoj-288]<br>[289 - 福祿猴的反敗][neoj-289] | [803 - 分數統計][neoj-803]<br>[805 - 芽芽停車場][neoj-805] | [666 - 你的名字][neoj-666]         |      |
-| 0311 |  02  |       |          |          |      |
+| 0311 |  02  | [645 - 三角形判斷][neoj-645]     |          |  [208 -季節判斷][neoj-208]        |      |
 | 0318 |  03  |       |          |          |      |
 | 0325 |  04  |       |          |          |      |
 | 0401 |  05  |   清明節放假    |          |          |      |
@@ -29,11 +29,14 @@
 [neoj-666]: https://neoj.sprout.tw/problem/666/
 [neoj-288]: https://neoj.sprout.tw/problem/288/
 
+[neoj-645]: https://neoj.sprout.tw/problem/645/
+[neoj-208]: https://neoj.sprout.tw/problem/208/
+
+
 [neoj-287]: https://neoj.sprout.tw/problem/287/
 [neoj-6005]: https://neoj.sprout.tw/problem/6005/
 [neoj-289]: https://neoj.sprout.tw/problem/289/
 [neoj-6002]: https://neoj.sprout.tw/problem/6002/
-[neoj-208]: https://neoj.sprout.tw/problem/208/
 [neoj-801]: https://neoj.sprout.tw/problem/801/
 [neoj-893]: https://neoj.sprout.tw/problem/893/
 [neoj-894]: https://neoj.sprout.tw/problem/894/
