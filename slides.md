@@ -16,3 +16,10 @@
 [tp-yt-helloworld]: https://youtu.be/79gUkU7Jct4
 [hc-yt-week1course]: https://youtu.be/B9sjhA5kwOk
 [tp-yt-variables]: https://youtu.be/LEUKWIHGcT8
+
+## 第二週 03/11
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+|   條件式 (if-else, switch)    |      |      |    |
+|  迴圈 (while, do-while, for) <br> 控制流程 (break , continue)    |       |      |      |
