@@ -33,7 +33,7 @@
 [neoj-208]: https://neoj.sprout.tw/problem/208/
 [neoj-893]: https://neoj.sprout.tw/problem/893/
 [neoj-801]: https://neoj.sprout.tw/problem/801/
-
+[neoj-1018]: https://neoj.sprout.tw/problem/1018/
 
 [neoj-287]: https://neoj.sprout.tw/problem/287/
 [neoj-6005]: https://neoj.sprout.tw/problem/6005/
