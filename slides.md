@@ -21,8 +21,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   條件式 (if-else, switch)    |      | [Week2-1 條件式][hc-if_else]     |    |
-|  迴圈 (while, do-while, for)<br>控制流程 (break , continue)    |       |   [Week2-2 迴圈][hc-loop]   |      |
+|   if-else    |      | [Week2-1 條件式][hc-if_else]     |    |
+|  loop    |       |   [Week2-2 迴圈][hc-loop]   |      |
 
-[hc-if_else]: https://drive.google.com/file/d/1qqHAcY7bbM-dYSqm7aRlHoUeFclRf3tJ/view?usp=share_link
+[hc-if_else]: https://drive.google.com/file/d/1GsnyPOHVdCoOWINTcuBiGt_q51r7V3EM/view?usp=share_link
 [hc-loop]: https://hackmd.io/@Ben1102/BJ3QLuey2
