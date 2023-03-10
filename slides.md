@@ -21,5 +21,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   條件式 (if-else, switch)    |      |      |    |
-|  迴圈 (while, do-while, for) <br> 控制流程 (break , continue)    |       |      |      |
+|   條件式 (if-else, switch)    |  [Week2-0 條件判斷][tp-ifelse]    |      |    |
+|  迴圈 (while, do-while, for) <br> 控制流程 (break , continue)    | [Week2-1 迴圈][tp-loop]      |      |      |
+
+[tp-ifelse]: https://slides.com/seanhuang1228/sprout_if_else
+[tp-loop]: https://slides.com/seanhuang1228/deck
