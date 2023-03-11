@@ -21,8 +21,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   if-else    |      | [Week2-1 條件式][hc-if_else]     |    |
-|  loop    |       |   [Week2-2 迴圈][hc-loop]   |      |
+|   if-else    |  [Week2-1 條件式][tp-if_else]    | [Week2-1 條件式][hc-if_else]     |    |
+|  loop    |  [Week2-2 迴圈][tp-loop]     |   [Week2-2 迴圈][hc-loop]   |      |
 
 [hc-if_else]: https://drive.google.com/file/d/1GsnyPOHVdCoOWINTcuBiGt_q51r7V3EM/view?usp=share_link
 [hc-loop]: https://hackmd.io/@Ben1102/BJ3QLuey2
+[tp-if_else]: https://slides.com/seanhuang1228/sprout_if_else
+[tp-loop]: https://slides.com/seanhuang1228/deck
