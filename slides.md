@@ -22,7 +22,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   if-else    |  [Week2-1 條件式][tp-if_else]    | [Week2-1 條件式][hc-if_else]     | [北區影片][tp-yt-if_else]  [竹區影片][hc-yt-if_else]   |
-|  loop    |  [Week2-2 迴圈][tp-loop]     |   [Week2-2 迴圈][hc-loop]   |   [竹區影片][hc-yt-loop]   |
+|  loop    |  [Week2-2 迴圈][tp-loop]     |   [Week2-2 迴圈][hc-loop]   |  [北區影片][tp-yt-loop] [竹區影片][hc-yt-loop]   |
 
 [hc-if_else]: https://drive.google.com/file/d/1GsnyPOHVdCoOWINTcuBiGt_q51r7V3EM/view?usp=share_link
 [hc-loop]: https://hackmd.io/@Ben1102/BJ3QLuey2
@@ -32,3 +32,4 @@
 [hc-yt-loop]: https://youtu.be/FhkLQIKyBTw
 [tp-yt-if_else]: https://youtu.be/7iipme8fG8s
 [hc-yt-if_else]: https://youtu.be/P3Vvhmac6po
+[tp-yt-loop]: https://youtu.be/VeZId6pmC9c
