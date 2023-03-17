@@ -39,8 +39,9 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   array    |  [Week3-1 陣列][tp-array]    | [Week3-1 陣列][hc-array] |    |
-| 字元、字串 |   [Week3-2 字元、字串][tp-cstring]  |     |    |
+| 字元、字串 |   [Week3-2 字元、字串][tp-cstring]  | [Week3-2 字元、字串][hc-cstring]    |    |
 
 [tp-array]: https://slides.com/cswagger/array
 [hc-array]: https://docs.google.com/presentation/d/1sDkVsgJBQFDn-qfAzfA2wz2EDkTjBaYTtEN1euaBR60/edit?usp=sharing
 [tp-cstring]: https://slides.com/allen522019/20220319-3d32c3
+[hc-cstring]: https://slides.com/rassss/deck
