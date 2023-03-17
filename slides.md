@@ -38,7 +38,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   array    |  [Week3-1 陣列][tp-array]    |      |    |
+|   array    |  [Week3-1 陣列][tp-array]    | [Week3-1 陣列][hc-array] |    |
 |    |     |     |    |
 
 [tp-array]: https://slides.com/cswagger/array
+[hc-array]: https://docs.google.com/presentation/d/1sDkVsgJBQFDn-qfAzfA2wz2EDkTjBaYTtEN1euaBR60/edit?usp=sharing
