@@ -33,3 +33,12 @@
 [tp-yt-if_else]: https://youtu.be/7iipme8fG8s
 [hc-yt-if_else]: https://youtu.be/P3Vvhmac6po
 [tp-yt-loop]: https://youtu.be/VeZId6pmC9c
+
+## 第三週 03/18
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+|   array    |  [Week3-1 陣列][tp-array]    |      |    |
+|    |     |     |    |
+
+[tp-array]: https://slides.com/cswagger/array
