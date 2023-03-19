@@ -38,7 +38,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   array    |  [Week3-1 陣列][tp-array]    | [Week3-1 陣列][hc-array] |    |
+|   array    |  [Week3-1 陣列][tp-array]    | [Week3-1 陣列][hc-array] | [竹區影片][hc-yt-cstring] |
 | 字元、字串 |   [Week3-2 字元、字串][tp-cstring]  | [Week3-2 字元、字串][hc-cstring]    |  [北區影片][tp-yt-cstring]  |
 
 [tp-array]: https://slides.com/cswagger/array
@@ -47,4 +47,4 @@
 [hc-cstring]: https://slides.com/rassss/deck
 
 [tp-yt-cstring]: https://youtu.be/3MjzPutdChM
-
+[hc-yt-cstring]: https://youtu.be/ZXu1Dfq18ac
