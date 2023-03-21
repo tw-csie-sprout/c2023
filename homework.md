@@ -28,7 +28,9 @@
 [hc-review-w2-slide]: https://hackmd.io/@Ben1102/rycvihZl2
 [hc-review-w2-video]: https://youtu.be/cSnJmtJ6uDM
 [tp-review-w1-slide]: https://drive.google.com/file/d/1JFUNkmVpmACOC3G41bfRtKFoemQJ7WP-/view?usp=sharing 
-[tp-review-w1-video]:https://youtu.be/w6yxwzDqHiE
+[tp-review-w1-video]: https://youtu.be/w6yxwzDqHiE
+[tp-review-w2-slide]: https://hackmd.io/@iceylemon157/HJdhZ5bg3#/
+[tp-review-w2-video]: https://www.youtube.com/watch?v=LiAPzDb8cIs&ab_channel=sprout-tw
 [neoj-803]: https://neoj.sprout.tw/problem/803/
 [neoj-805]: https://neoj.sprout.tw/problem/805/
 [neoj-289]: https://neoj.sprout.tw/problem/289/
