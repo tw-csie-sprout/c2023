@@ -5,7 +5,7 @@
 | 日期 | 週次 | 上課練習                                               | 勾選作業                                                         | 其他習題 | 檢討                             |
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
 | 0304 |  01  | [288 - 練習打字][neoj-288]<br>[289 - 福祿猴的反敗][neoj-289] | [803 - 分數統計][neoj-803]<br>[805 - 芽芽停車場][neoj-805] | [666 - 你的名字][neoj-666]         |  [北區檢討講義][tp-review-w1-slide] [北區檢討影片][tp-review-w1-video]<br>[竹區檢討講義][hc-review-w1-slide] [竹區檢討影片][hc-review-w1-video]   |
-| 0311 |  02  | [645 - 三角形判斷][neoj-645]<br>[893 - 數字塔][neoj-893]     | [764 - 減肥成功率][neoj-764]<br>[451 - 我沒辦法AC都是13的錯][neoj-451] |  [208 -季節判斷][neoj-208]<br>[801-3n+1 問題][neoj-801]<br>[1018 - 耶誕舞會][neoj-1018] |      |
+| 0311 |  02  | [645 - 三角形判斷][neoj-645]<br>[893 - 數字塔][neoj-893]     | [764 - 減肥成功率][neoj-764]<br>[451 - 我沒辦法AC都是13的錯][neoj-451] |  [208 -季節判斷][neoj-208]<br>[801-3n+1 問題][neoj-801]<br>[1018 - 耶誕舞會][neoj-1018] | [竹區檢討講義][hc-review-w2-slide] <br> [竹區檢討影片][hc-review-w2-video]    |
 | 0318 |  03  | [294 - 我愛零分][neoj-294]<br>[894 - 姓名縮寫][neoj-894] | [953 - 維吉尼亞的統計學][neoj-953]<br>[985 - 高強度密碼][neoj-985] | [209 - σ．σ - 2015][neoj-209]<br>[217 - 凱薩密碼][neoj-217] |      |
 | 0325 |  04  |       |          |          |      |
 | 0401 |  05  |   清明節放假    |          |          |      |
@@ -25,6 +25,8 @@
 
 [hc-review-w1-slide]: https://hackmd.io/@XYFC128/r12XnrRCo
 [hc-review-w1-video]: https://youtu.be/Xn-YAoKA1sI
+[hc-review-w2-slide]: https://hackmd.io/@Ben1102/rycvihZl2
+[hc-review-w2-video]: https://youtu.be/cSnJmtJ6uDM
 [tp-review-w1-slide]: https://drive.google.com/file/d/1JFUNkmVpmACOC3G41bfRtKFoemQJ7WP-/view?usp=sharing 
 [tp-review-w1-video]:https://youtu.be/w6yxwzDqHiE
 [neoj-803]: https://neoj.sprout.tw/problem/803/
