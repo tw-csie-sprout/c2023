@@ -51,6 +51,18 @@
 [hc-yt-array]: https://youtu.be/ZXu1Dfq18ac
 [hc-yt-cstring]: https://youtu.be/RYzkrB4pdxw
 
+## 第四週 03/25
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+| 變數生命週期與修飾子 |     | [Week4-1-1 變數生命週期][hc-varlifecycle] [Week4-1-2 修飾子][hc-modifier] | [竹區影片][hc-yt-0325] |
+| C++小眉角、轉型、亂數 |    | [Week4-2 C++小眉角、轉型、亂數][hc-typecast]    | [竹區影片][hc-yt-0325] |
+
+[hc-varlifecycle]: https://slides.com/yeiyang/life-cycle
+[hc-modifier]: https://slides.com/yeiyang/qualifier-4e3988
+[hc-typecast]: https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/S10N_gmE9
+[hc-yt-0325]: https://youtu.be/k14ZvMquRQE
+
 ## 第六週 04/08
 
 | 主題         | 北區                                      | 竹區 | 影片 |
