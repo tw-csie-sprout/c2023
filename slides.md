@@ -50,3 +50,13 @@
 [tp-yt-array]: https://youtu.be/aumt-SMGTHM
 [hc-yt-array]: https://youtu.be/ZXu1Dfq18ac
 [hc-yt-cstring]: https://youtu.be/RYzkrB4pdxw
+
+## 第六週 04/08
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+|   指標    |      | [Week6-1 指標][hc-pointer] |   |
+| 多維陣列 |     | [Week6-2 多維陣列][hc-2darray]    |   
+
+[hc-pointer]: https://slides.com/s0n9yu/deck/fullscreen
+[hc-2darray]: https://slides.com/s0n9yu/deck-0c151a/fullscreen
