@@ -67,13 +67,15 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   指標    |      | [Week6-1 指標][hc-pointer] |   |
-| 多維陣列 |   [Week6-2 多維陣列][tp-ndarray] | [Week6-2 多維陣列][hc-2darray]  | [北區影片][tp-yt-ndarray]  | 
+|   指標    | [Week6-1 指標][tp-pointer]     | [Week6-1 指標][hc-pointer] | [北區影片][tp-yt-pointer] |
+| 多維陣列 |   [Week6-2 多維陣列][tp-ndarray] | [Week6-2 多維陣列][hc-2darray]  | [北區影片][tp-yt-ndarray] |
 | Coding Style | [Week6-3 Coding Style (補充講義)][tp-codingStyle] | | |
 
 [hc-pointer]: https://slides.com/s0n9yu/deck/fullscreen
+[tp-pointer]: https://drive.google.com/file/d/1QnIxKbynMUKOI0oTzqcLbwNcD05Ev1mn/view?usp=share_link
 [hc-2darray]: https://slides.com/s0n9yu/deck-0c151a/fullscreen
 [tp-ndarray]: https://drive.google.com/file/d/1q1ZWjBn9w1Sb9dI2OYrodq-_jmTmHN9g/view
 [tp-codingStyle]: https://hackmd.io/@iceylemon157/ry46_AaZ3#/
 
 [tp-yt-ndarray]: https://youtu.be/YZ8qRbrp5WQ
+[tp-yt-pointer]: https://www.youtube.com/playlist?list=PLp5kjMAmhp-91CeEFj7039oNyDssPTcWU
