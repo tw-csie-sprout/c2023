@@ -55,12 +55,15 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 變數生命週期與修飾子 |     | [Week4-1-1 變數生命週期][hc-varlifecycle] [Week4-1-2 修飾子][hc-modifier] | [竹區影片][hc-yt-0325] |
-| C++小眉角、轉型、亂數 |    | [Week4-2 C++小眉角、轉型、亂數][hc-typecast]    | [竹區影片][hc-yt-0325] |
+| 變數生命週期與修飾子 |  [Week4 C++ 小眉角][tp-small-topics-in-cpp]   | [Week4-1-1 變數生命週期][hc-varlifecycle] [Week4-1-2 修飾子][hc-modifier] | [北區影片][tp-yt-0325-pt1] [竹區影片][hc-yt-0325]  |
+| C++小眉角、轉型、亂數 |  [Week4 C++ 小眉角][tp-small-topics-in-cpp]  | [Week4-2 C++小眉角、轉型、亂數][hc-typecast]    | [北區影片][tp-yt-0325-pt2] [竹區影片][hc-yt-0325] |
 
+[tp-small-topics-in-cpp]: https://slides.com/rubyku/small-topics-in-cpp
 [hc-varlifecycle]: https://slides.com/yeiyang/life-cycle
 [hc-modifier]: https://slides.com/yeiyang/qualifier-4e3988
 [hc-typecast]: https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/S10N_gmE9
+[tp-yt-0325-pt1]: https://www.youtube.com/watch?v=qE1EfJg6kZ0
+[tp-yt-0325-pt2]: https://www.youtube.com/watch?v=x5M-zwQaAaA
 [hc-yt-0325]: https://youtu.be/k14ZvMquRQE
 
 ## 第六週 04/08
