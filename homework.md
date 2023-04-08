@@ -9,7 +9,7 @@
 | 0318 |  03  | [294 - 我愛零分][neoj-294]<br>[894 - 姓名縮寫][neoj-894] | [953 - 維吉尼亞的統計學][neoj-953]<br>[985 - 高強度密碼][neoj-985] | [209 - σ．σ - 2015][neoj-209]<br>[217 - 凱薩密碼][neoj-217] |  [北區檢討講義][tp-review-w3-slide]  [北區檢討影片][tp-review-w3-video]  <br> [竹區檢討講義][hc-review-w3-slide]  [竹區檢討影片][hc-review-w3-video]  |
 | 0325 |  04  |       |          |          |      |
 | 0401 |  05  |   清明節放假    |          |          |      |
-| 0408 |  06  |       |          |          |      |
+| 0408 |  06  |    [999 - 螺旋矩陣][neoj-999]<br>[8857 - 指標陣列最大值無函數][neoj-8857]   |     [9999 - EasyAsF*ck][neoj-9999]<br>[987 - 大十字][neoj-987]     |          |      |
 | 0415 |  07  |       |          |          |      |
 | 0422 |  08  |       |          |          |      |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
@@ -54,3 +54,9 @@
 [neoj-894]: https://neoj.sprout.tw/problem/894/
 [neoj-217]: https://neoj.sprout.tw/problem/217/
 [neoj-985]: https://neoj.sprout.tw/problem/985/
+
+[neoj-999]: https://neoj.sprout.tw/problem/999/
+[neoj-8857]: https://neoj.sprout.tw/problem/8857/
+[neoj-9999]: https://neoj.sprout.tw/problem/9999/
+[neoj-987]: https://neoj.sprout.tw/problem/987/
+
