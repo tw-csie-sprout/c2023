@@ -74,6 +74,13 @@
 | 多維陣列 |   [Week6-2 多維陣列][tp-ndarray] | [Week6-2 多維陣列][hc-2darray]  | [北區影片][tp-yt-ndarray] |
 | Coding Style | [Week6-3 Coding Style (補充講義)][tp-codingStyle] | | |
 
+## 第七週 04/15
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+|   函數、header file    |     |  |  |
+| 大作業一 |    |   |  |
+
 [hc-pointer]: https://slides.com/s0n9yu/deck/fullscreen
 [tp-pointer]: https://drive.google.com/file/d/1QnIxKbynMUKOI0oTzqcLbwNcD05Ev1mn/view?usp=share_link
 [hc-2darray]: https://slides.com/s0n9yu/deck-0c151a/fullscreen
