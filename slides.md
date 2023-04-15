@@ -87,7 +87,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   函數    |  [Week7-1 函數][tp-function]   | [Week7-1 函數][hc-function] | [Week7-1][tp-yt-function] |
+|   函數    |  [Week7-1 函數][tp-function]   | [Week7-1 函數][hc-function] | [北區影片][tp-yt-function] |
 |Header file| [Week7-3 Header file][tp-headerfile] |[Week7-2 Header file][hc-headerfile]||
 | 大作業一 |  [Week7-3 大作業一][hc-project1]  | [Week7-3 大作業一][hc-project1]、[struct overview][hc-struct]  |  |
 
