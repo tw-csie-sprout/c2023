@@ -88,9 +88,10 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   函數    |     | [Week7-1 函數][hc-function] |  |
-|Header file||[Week7-2 Header file][hc-headerfile]||
-| 大作業一 |    | [Week7-3 大作業一][hc-project1]  |  |
+|Header file| [Week7-3 Header file][tp-headerfile] |[Week7-2 Header file][hc-headerfile]||
+| 大作業一 |  [Week7-3 大作業一][hc-project1]  | [Week7-3 大作業一][hc-project1]  |  |
 
 [hc-function]: https://drive.google.com/file/d/1hP9NC9pmK6iaktOQqH7X_Sma6UKIVze-/view
 [hc-headerfile]: https://slides.com/koios/week10-header-file-template#/1
+[tp-headerfile]: https://slides.com/seanhuang1228/deck-a2f76d
 [hc-project1]: https://hackmd.io/@109nfDWYQD66KCH8w6Osow/SJsdPObzn
