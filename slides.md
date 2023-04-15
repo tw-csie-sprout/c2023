@@ -74,18 +74,21 @@
 | 多維陣列 |   [Week6-2 多維陣列][tp-ndarray] | [Week6-2 多維陣列][hc-2darray]  | [北區影片][tp-yt-ndarray] |
 | Coding Style | [Week6-3 Coding Style (補充講義)][tp-codingStyle] | | |
 
-## 第七週 04/15
-
-| 主題         | 北區                                      | 竹區 | 影片 |
-| ------------ | ----------------------------------------- | ---- | ---- |
-|   函數、header file    |     |  |  |
-| 大作業一 |    |   |  |
-
 [hc-pointer]: https://slides.com/s0n9yu/deck/fullscreen
 [tp-pointer]: https://drive.google.com/file/d/1QnIxKbynMUKOI0oTzqcLbwNcD05Ev1mn/view?usp=share_link
 [hc-2darray]: https://slides.com/s0n9yu/deck-0c151a/fullscreen
 [tp-ndarray]: https://drive.google.com/file/d/1q1ZWjBn9w1Sb9dI2OYrodq-_jmTmHN9g/view
 [tp-codingStyle]: https://hackmd.io/@iceylemon157/ry46_AaZ3#/
-
 [tp-yt-ndarray]: https://youtu.be/YZ8qRbrp5WQ
 [tp-yt-pointer]: https://www.youtube.com/playlist?list=PLp5kjMAmhp-91CeEFj7039oNyDssPTcWU
+
+
+## 第七週 04/15
+
+| 主題         | 北區                                      | 竹區 | 影片 |
+| ------------ | ----------------------------------------- | ---- | ---- |
+|   函數    |     | [Week7-1 函數][hc-function] |  |
+| header file、大作業一 |    | [Week7-2 大作業一][hc-project1]  |  |
+
+[hc-function]: https://drive.google.com/file/d/1hP9NC9pmK6iaktOQqH7X_Sma6UKIVze-/view
+[hc-project1]: https://hackmd.io/@109nfDWYQD66KCH8w6Osow/SJsdPObzn
