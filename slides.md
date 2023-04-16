@@ -87,9 +87,9 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   函數    |  [Week7-1 函數][tp-function]   | [Week7-1 函數][hc-function] | [北區影片][tp-yt-function] |
-|Header file| [Week7-3 Header file][tp-headerfile] |[Week7-2 Header file][hc-headerfile]| [北區影片][tp-yt-project1] |
-| 大作業一 |  [Week7-3 大作業一][hc-project1]  | [Week7-3 大作業一][hc-project1]、[struct overview][hc-struct]  | [北區影片][tp-yt-project1] [完整介紹][tp-yt-project1-film2] |
+|   函數    |  [Week7-1 函數][tp-function]   | [Week7-1 函數][hc-function] | [北區影片][tp-yt-function] [竹區影片][hc-video-function] |
+|Header file| [Week7-3 Header file][tp-headerfile] |[Week7-2 Header file][hc-headerfile]| [北區影片][tp-yt-project1] [竹區影片][hc-video-header] |
+| 大作業一 |  [Week7-3 大作業一][hc-project1]  | [Week7-3 大作業一][hc-project1]、[struct overview][hc-struct]  | [北區影片][tp-yt-project1] [竹區影片][hc-video-project1] [完整介紹][tp-yt-project1-film2] |
 
 [hc-function]: https://drive.google.com/file/d/1hP9NC9pmK6iaktOQqH7X_Sma6UKIVze-/view
 [tp-function]: https://drive.google.com/file/d/1G25W-F9sfuQ89Hrsznuj7QWIWqQ71Xo2/view?usp=share_link
@@ -100,7 +100,9 @@
 [tp-yt-function]: https://www.youtube.com/watch?v=Kq9BGziriyc&ab_channel=sprout-tw
 [tp-yt-project1]: https://youtu.be/UpUovbsi48M
 [tp-yt-project1-film2]: https://youtu.be/ZmfYpoCA_yY
-
+[hc-video-function]: https://youtu.be/tRAigoVwDik
+[hc-video-header]: https://youtu.be/yrZD8sp9n8g
+[hc-video-project1]: https://youtu.be/YHmY2jTpCCg
 
 
 ## 第八週 04/22
