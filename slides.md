@@ -100,3 +100,13 @@
 [tp-yt-function]: https://www.youtube.com/watch?v=Kq9BGziriyc&ab_channel=sprout-tw
 [tp-yt-project1]: https://youtu.be/UpUovbsi48M
 [tp-yt-project1-film2]: https://youtu.be/ZmfYpoCA_yY
+
+
+
+## 第八週 04/22
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| 遞迴     |                 |      |      |
+| 函數呼叫 |                 |      |      |
+| 複習     | [][hc-project1] |      |      |
