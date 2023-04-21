@@ -110,5 +110,8 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 遞迴     |                 |      |      |
-| 函數呼叫 |                 |      |      |
-| 複習     | [][hc-project1] |      |      |
+| 函數呼叫 |     [Week8-2 函數呼叫（投影片）][tp-function-call-slide] <br>[Week8-2 函數呼叫（講義）][tp-function-call-handout]                     |      |      |
+| 複習     |  |      |      |
+
+[tp-function-call-slide]: https://drive.google.com/file/d/1ta_-5q4OoHxFdW2IqEiiGV9Y1NfAobMW/view
+[tp-function-call-handout]: https://imbensonchiu.github.io/0422_functioncalls.html
