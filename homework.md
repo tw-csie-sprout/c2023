@@ -10,7 +10,7 @@
 | 0325 |  04  |       |          |          |      |
 | 0401 |  05  |   清明節放假    |          |          |      |
 | 0408 |  06  |    [999 - 螺旋矩陣][neoj-999]<br>[8857 - 指標陣列最大值無函數][neoj-8857]   |     [9999 - EasyAsF*ck][neoj-9999]<br>[987 - 大十字][neoj-987] |          |   [竹區檢討講義][hc-review-w6-slide]  [竹區檢討影片][hc-review-w6-video]   |
-| 0415 |  07  |  [225 - 3n+1 Problem (II)][neoj-225]<br>[226 - 成績統計][neoj-226]     | [461 - 娃娃魚的站位哲學][neoj-461]<br>[2025 - Ruby數][neoj-2025]         |          |  [北區檢討講義][tp-review-w7-slide] [北區檢討影片][tp-review-w7-video]<br>    |
+| 0415 |  07  |  [225 - 3n+1 Problem (II)][neoj-225]<br>[226 - 成績統計][neoj-226]     | [461 - 娃娃魚的站位哲學][neoj-461]<br>[2025 - Ruby數][neoj-2025]         |          |  [北區檢討講義][tp-review-w7-slide] [北區檢討影片][tp-review-w7-video]<br> [竹區檢討講義][hc-review-w7-slide]    |
 | 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |          |      |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
 | 0506 |  10  |       |          |          |      |
@@ -31,6 +31,7 @@
 [hc-review-w3-video]: https://drive.google.com/file/d/1HXwtwk3_Z68rPH5Hs48x90s4_NbPVNHG/view?usp=share_link
 [hc-review-w6-slide]: https://hackmd.io/@SWTRVHQhQZKeXNuaJ-7FeQ/HJHS3fZfn
 [hc-review-w6-video]: https://www.youtube.com/watch?v=CUdoSwmppdw
+[hc-review-w7-slide]: https://hackmd.io/@gtcoding/ByG3r6xmh
 
 [tp-review-w1-slide]: https://drive.google.com/file/d/1JFUNkmVpmACOC3G41bfRtKFoemQJ7WP-/view?usp=sharing 
 [tp-review-w1-video]: https://youtu.be/w6yxwzDqHiE
