@@ -109,7 +109,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 遞迴     |  [Week8-1遞迴][tp-recursion]   |      |      |
+| 遞迴     |  [Week8-1遞迴][tp-recursion]   |      |  [北區影片1][tp-yt-recursion1]    |
 | 函數呼叫 |     [Week8-2 函數呼叫（投影片）][tp-function-call-slide] <br>[Week8-2 函數呼叫（講義）][tp-function-call-handout]                     | [Week8-2 函數呼叫（投影片）][hc-function-call-slide] |      |
 | 複習     |  | [Week8-3 第一階段複習][hc-review1-handout] |      |
 
@@ -118,3 +118,4 @@
 [hc-function-call-slide]: https://hackmd.io/@XYFC128/B1RW5f90i
 [hc-review1-handout]: https://hackmd.io/@XYFC128/SJxvoOYWzh
 [tp-recursion]:https://drive.google.com/file/d/1WWeE04MnddCXqT9uuHwJSFALUAHGjeZK/view?usp=share_link
+[tp-yt-recursion1]:https://youtu.be/mmHl6mdNAsY
