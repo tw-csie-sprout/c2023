@@ -109,13 +109,17 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 遞迴     |  [Week8-1遞迴][tp-recursion]   |      |  [北區影片1][tp-yt-recursion1]    |
-| 函數呼叫 |     [Week8-2 函數呼叫（投影片）][tp-function-call-slide] <br>[Week8-2 函數呼叫（講義）][tp-function-call-handout]                     | [Week8-2 函數呼叫（投影片）][hc-function-call-slide] |      |
-| 複習     |  | [Week8-3 第一階段複習][hc-review1-handout] |      |
+| 遞迴     |  [Week8-1遞迴][tp-recursion]   |      |  [北區影片1][tp-yt-recursion1]  <br> [北區影片2][tp-yt-recursion2]   |
+| 函數呼叫 |     [Week8-2 函數呼叫（投影片）][tp-function-call-slide] <br>[Week8-2 函數呼叫（講義）][tp-function-call-handout]   <br> [Week8-2 函數呼叫（勘誤表）][tp-function-call-mistake]                    | [Week8-2 函數呼叫（投影片）][hc-function-call-slide] |    [北區影片][tp-function-call-video]   |
+| 複習     |  | [Week8-3 第一階段複習][hc-review1-handout] |       |
 
 [tp-function-call-slide]: https://drive.google.com/file/d/1ta_-5q4OoHxFdW2IqEiiGV9Y1NfAobMW/view
 [tp-function-call-handout]: https://imbensonchiu.github.io/0422_functioncalls.html
+[tp-function-call-mistake]: https://imbensonchiu.github.io/0422_mistake.html
+[tp-function-call-video]: https://youtube.com/playlist?list=PLp5kjMAmhp-_0YZ4L5Ap6-nODIRGbUZWK
+
 [hc-function-call-slide]: https://hackmd.io/@XYFC128/B1RW5f90i
 [hc-review1-handout]: https://hackmd.io/@XYFC128/SJxvoOYWzh
 [tp-recursion]:https://drive.google.com/file/d/1WWeE04MnddCXqT9uuHwJSFALUAHGjeZK/view?usp=share_link
 [tp-yt-recursion1]:https://youtu.be/mmHl6mdNAsY
+[tp-yt-recursion2]:https://youtu.be/JcfF1IKXvg4
