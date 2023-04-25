@@ -109,7 +109,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 遞迴     |  [Week8-1遞迴][tp-recursion]   |      |  [北區影片1][tp-yt-recursion1]  <br> [北區影片2][tp-yt-recursion2]   |
+| 遞迴     |  [Week8-1遞迴][tp-recursion]   | [Week8-1遞迴][hc-recursion] |  [北區影片1][tp-yt-recursion1]  <br> [北區影片2][tp-yt-recursion2]   |
 | 函數呼叫 |     [Week8-2 函數呼叫（投影片）][tp-function-call-slide] <br>[Week8-2 函數呼叫（講義）][tp-function-call-handout]   <br> [Week8-2 函數呼叫（勘誤表）][tp-function-call-mistake]                    | [Week8-2 函數呼叫（投影片）][hc-function-call-slide] |    [北區影片][tp-function-call-video]<br>[竹區影片][hc-function-call-video]   |
 | 複習     | [Week8-3 第一階段複習][tp-review1-handout] | [Week8-3 第一階段複習][hc-review1-handout] |   [北區影片][tp-yt-review]   |
 
@@ -125,4 +125,5 @@
 [tp-recursion]:https://drive.google.com/file/d/1WWeE04MnddCXqT9uuHwJSFALUAHGjeZK/view?usp=share_link
 [tp-yt-recursion1]:https://youtu.be/mmHl6mdNAsY
 [tp-yt-recursion2]:https://youtu.be/JcfF1IKXvg4
+[hc-recursion]:https://docs.google.com/presentation/d/1zMdhLMIM2GqYwIxkjx5f3NleIbWnHA5by1nJCxOPUvc/edit?usp=share_link
 [tp-yt-review]:https://youtu.be/1RtOGIgFJbQ
