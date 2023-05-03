@@ -11,7 +11,7 @@
 | 0401 |  05  |   清明節放假    |          |          |      |
 | 0408 |  06  |    [999 - 螺旋矩陣][neoj-999]<br>[8857 - 指標陣列最大值無函數][neoj-8857]   |     [9999 - EasyAsF*ck][neoj-9999]<br>[987 - 大十字][neoj-987] |          |   [竹區檢討講義][hc-review-w6-slide]  [竹區檢討影片][hc-review-w6-video]   |
 | 0415 |  07  |  [225 - 3n+1 Problem (II)][neoj-225]<br>[226 - 成績統計][neoj-226]     | [461 - 娃娃魚的站位哲學][neoj-461]<br>[2025 - Ruby數][neoj-2025]         |          |  [北區檢討講義][tp-review-w7-slide] [北區檢討影片][tp-review-w7-video]<br> [竹區檢討講義][hc-review-w7-slide]    |
-| 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |     [北 C 一階觀念總複習測驗（自願練習，非強迫）][tp-concept-exam]     |      |
+| 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |     [北 C 一階觀念總複習測驗（自願練習，非強迫）][tp-concept-exam]     |  [北區檢討講義][https://slides.com/cswagger/minimal] [北區檢討影片][tp-review-w8-video]    |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
 | 0506 |  10  |       |          |          |      |
 | 0513 |  11  |       |          |          |      |
@@ -40,7 +40,9 @@
 [tp-review-w3-slide]: https://slides.com/allen522019/20220326
 [tp-review-w3-video]: https://youtu.be/heewNzPf4Pc
 [tp-review-w7-slide]:https://drive.google.com/file/d/10yo3r4t9CgCl7s047S92X_aj0MqEjAFO/view?usp=share_link
-[tp-review-w7-video]:https://youtu.be/QJeCm0F_wWo
+[tp-review-w7-video]:https://youtu.be/QJeCm0F_wWott
+[tp-review-w8-video]:https://youtu.be/IrFkgZN8MY4
+[tp-review-w8-slide]:https://slides.com/cswagger/minimal
 [neoj-803]: https://neoj.sprout.tw/problem/803/
 [neoj-805]: https://neoj.sprout.tw/problem/805/
 [neoj-289]: https://neoj.sprout.tw/problem/289/
