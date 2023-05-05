@@ -127,3 +127,15 @@
 [tp-yt-recursion2]:https://youtu.be/JcfF1IKXvg4
 [hc-recursion]:https://docs.google.com/presentation/d/1zMdhLMIM2GqYwIxkjx5f3NleIbWnHA5by1nJCxOPUvc/edit?usp=share_link
 [tp-yt-review]:https://youtu.be/1RtOGIgFJbQ
+
+
+## 第九週 04/29
+|主題| 講義|影片 |
+|-----|------|------|
+|第一階段檢定考-pA|||
+|第一階段檢定考-pB|||
+|第一階段檢定考-pC|||
+|第一階段檢定考-pD|[金融風暴-講義][first-exam-pD-slide]|[金融風暴-題解影片][first-exam-pD-video]|
+
+[first-exam-pD-slide]:https://slides.com/cswagger/minimal-8f9552
+[first-exam-pD-video]:https://youtu.be/JALG4_acaIw
