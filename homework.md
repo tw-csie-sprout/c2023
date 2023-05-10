@@ -14,7 +14,7 @@
 | 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |     [北 C 一階觀念總複習測驗（自願練習，非強迫）][tp-concept-exam]     |  [北區檢討講義][tp-review-w8-slide] [北區檢討影片][tp-review-w8-video]    |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
 | 0506 |  10  |       |          |          |      |
-| 0513 |  11  |       |          |          |      |
+| 0513 |  11  | [366 - 電話銷售員][neoj-366] |          |          |      |
 | 0520 |  12  |       |          |          |      |
 | 0527 |  13  |       |          |          |      |
 | 0603 |  14  |       |          |          |      |
@@ -79,3 +79,5 @@
 [neoj-1064]: https://neoj.sprout.tw/problem/1064/
 
 [tp-concept-exam]: https://forms.gle/866nWFnyLmjsC7wNA
+
+[neoj-366]: https://neoj.sprout.tw/problem/366/
