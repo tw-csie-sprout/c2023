@@ -127,3 +127,15 @@
 [tp-yt-recursion2]:https://youtu.be/JcfF1IKXvg4
 [hc-recursion]:https://docs.google.com/presentation/d/1zMdhLMIM2GqYwIxkjx5f3NleIbWnHA5by1nJCxOPUvc/edit?usp=share_link
 [tp-yt-review]:https://youtu.be/1RtOGIgFJbQ
+
+## 第十一週 05/13
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| struct、struct(\*ptr)     |    |  |    |
+| template  |  | [Week11-2 模板 template][hc-template-slide] |     |
+| class     |  | [Week11-3 類別 class][hc-class-slide]|     |
+
+[hc-template-slide]: https://drive.google.com/file/d/1Dm08Pl7dUKCeeVysdZxT5Xeh1gYSU1EB/view?usp=share_link
+[hc-class-slide]: https://drive.google.com/file/d/1c5BWmAFa9PjtVjILBQoWo2SSgRbU2m2C/view?usp=share_link
+
