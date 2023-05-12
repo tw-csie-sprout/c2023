@@ -133,9 +133,10 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | struct、struct(\*ptr)     |    |  |    |
-| template  | [Week11-2 template & class][tp-template-class-slide] | [Week11-2 模板 template][hc-template-slide] |     |
+| template  | [Week11-2 template & class][tp-template-class-slide] | [Week11-2 模板 template][hc-template-slide] | [竹區影片][hc-template-video]    |
 | class     |  | [Week11-3 類別 class][hc-class-slide]|     |
 
 [hc-template-slide]: https://drive.google.com/file/d/1Dm08Pl7dUKCeeVysdZxT5Xeh1gYSU1EB/view?usp=share_link
 [hc-class-slide]: https://drive.google.com/file/d/1c5BWmAFa9PjtVjILBQoWo2SSgRbU2m2C/view?usp=share_link
 [tp-template-class-slide]: https://hackmd.io/@iceylemon157/BJGR4JFN3#/
+[hc-template-video]: https://www.youtube.com/watch?v=0HLYXtht0lY
