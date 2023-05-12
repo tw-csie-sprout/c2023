@@ -9,12 +9,12 @@
 | 0318 |  03  | [294 - 我愛零分][neoj-294]<br>[894 - 姓名縮寫][neoj-894] | [953 - 維吉尼亞的統計學][neoj-953]<br>[985 - 高強度密碼][neoj-985] | [209 - σ．σ - 2015][neoj-209]<br>[217 - 凱薩密碼][neoj-217] |  [北區檢討講義][tp-review-w3-slide]  [北區檢討影片][tp-review-w3-video]  <br> [竹區檢討講義][hc-review-w3-slide]  [竹區檢討影片][hc-review-w3-video]  |
 | 0325 |  04  |       |          |          |      |
 | 0401 |  05  |   清明節放假    |          |          |      |
-| 0408 |  06  |    [999 - 螺旋矩陣][neoj-999]<br>[8857 - 指標陣列最大值無函數][neoj-8857]   |     [9999 - EasyAsF*ck][neoj-9999]<br>[987 - 大十字][neoj-987] |          |   [竹區檢討講義][hc-review-w6-slide]  [竹區檢討影片][hc-review-w6-video]   |
+| 0408 |  06  |    [999 - 螺旋矩陣][neoj-999]<br>[8857 - 指標陣列最大值無函數][neoj-8857]   |     [9999 - EasyAsF\*ck][neoj-9999]<br>[987 - 大十字][neoj-987] |          |   [竹區檢討講義][hc-review-w6-slide]  [竹區檢討影片][hc-review-w6-video]   |
 | 0415 |  07  |  [225 - 3n+1 Problem (II)][neoj-225]<br>[226 - 成績統計][neoj-226]     | [461 - 娃娃魚的站位哲學][neoj-461]<br>[2025 - Ruby數][neoj-2025]         |          |  [北區檢討講義][tp-review-w7-slide] [北區檢討影片][tp-review-w7-video]<br> [竹區檢討講義][hc-review-w7-slide]    |
 | 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |     [北 C 一階觀念總複習測驗（自願練習，非強迫）][tp-concept-exam]     |  [北區檢討講義][tp-review-w8-slide] [北區檢討影片][tp-review-w8-video]    |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
 | 0506 |  10  |       |          |          |      |
-| 0513 |  11  | [366 - 電話銷售員][neoj-366] |          |          |      |
+| 0513 |  11  | [366 - 電話銷售員][neoj-366]<br>[595 - template練習][neoj-595] |          | [596 - class存取權限練習][neoj-596]<br>[597 - class + template 混合練習題][neoj-597]         |      |
 | 0520 |  12  |       |          |          |      |
 | 0527 |  13  |       |          |          |      |
 | 0603 |  14  |       |          |          |      |
@@ -81,3 +81,6 @@
 [tp-concept-exam]: https://forms.gle/866nWFnyLmjsC7wNA
 
 [neoj-366]: https://neoj.sprout.tw/problem/366/
+[neoj-595]: https://neoj.sprout.tw/problem/595/
+[neoj-596]: https://neoj.sprout.tw/problem/596/
+[neoj-597]: https://neoj.sprout.tw/problem/597/
