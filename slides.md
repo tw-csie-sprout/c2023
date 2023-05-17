@@ -146,3 +146,15 @@
 [hc-template-video]: https://www.youtube.com/watch?v=0HLYXtht0lY
 [hc-class-video]: https://www.youtube.com/watch?v=AmCuVR5Jo_c&t=55s
 [tp-struct-video]: https://youtu.be/sDlVvxCVqjM
+
+## 第十二週 05/20
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| 動態陣列 | [Week12 Dynamic Arrays][tp-dynamic-array-slide] | [Week12 Dynamic Arrays][hc-dynamic-array-slide] | |
+
+[tp-dynamic-array-slide]: https://slides.com/allen522019/20230318-c-style
+[hc-dynamic-array-slide]: https://slides.com/gtcoding/sprout-2023-dynamic-arrays
+
+
+
