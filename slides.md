@@ -133,7 +133,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | struct、struct(\*ptr)     | [Week11-1 struct & struct(\*ptr)][tp-struct-slide]   | [Week11-1 struct & struct pointer][hc-struct-slide] |[北區影片][tp-struct-video] [竹區影片][hc-struct-video] |
-| template  | [Week11-2 template & class][tp-template-class-slide] | [Week11-2 模板 template][hc-template-slide] | [竹區影片][hc-template-video]    |
+| template  | [Week11-2 template & class][tp-template-class-slide] | [Week11-2 模板 template][hc-template-slide] | [北區影片][tp-template-class-video] [竹區影片][hc-template-video]    |
 | class     |  | [Week11-3 類別 class][hc-class-slide]| [竹區影片][hc-class-video]    |
 
 
@@ -146,6 +146,7 @@
 [hc-template-video]: https://www.youtube.com/watch?v=0HLYXtht0lY
 [hc-class-video]: https://www.youtube.com/watch?v=AmCuVR5Jo_c&t=55s
 [tp-struct-video]: https://youtu.be/sDlVvxCVqjM
+[tp-template-class-video]: https://youtu.be/qXCGVHweJR0
 
 ## 第十二週 05/20
 
