@@ -14,7 +14,7 @@
 | 0422 |  08  | [350 - 巴斯卡三角形][neoj-350]<br>[1064 - 指標陣列最大值][neoj-1064] | [573 - 小普刷油漆][neoj-573]<br>[1011 - Directory Tree][neoj-1011] |     [北 C 一階觀念總複習測驗（自願練習，非強迫）][tp-concept-exam]     |  [北區檢討講義][tp-review-w8-slide] [北區檢討影片][tp-review-w8-video]    |
 | 0429 |  09  |   第一階段檢定    |          |          |      |
 | 0506 |  10  |       |          |          |      |
-| 0513 |  11  | [895 - 成績統計II][neoj-895]<br>[595 - template練習][neoj-595] |   [366 - 電話銷售員][neoj-366] <br> [878 - 愁眉苦臉的小暄和懶惰的 Ruby][neoj-878]     | [596 - class存取權限練習][neoj-596]<br>[597 - class + template 混合練習題][neoj-597]         |      |
+| 0513 |  11  | [895 - 成績統計II][neoj-895]<br>[595 - template練習][neoj-595] |   [366 - 電話銷售員][neoj-366] <br> [878 - 愁眉苦臉的小暄和懶惰的 Ruby][neoj-878]     | [596 - class存取權限練習][neoj-596]<br>[597 - class + template 混合練習題][neoj-597]         | [竹區檢討講義][hc-review-w11-slide] [竹區檢討影片][hc-review-w11-video]     |
 | 0520 |  12  | [1146 - Just like stack][neoj-1146] |          |          |      |
 | 0527 |  13  |       |          |          |      |
 | 0603 |  14  |       |          |          |      |
@@ -32,6 +32,8 @@
 [hc-review-w6-slide]: https://hackmd.io/@SWTRVHQhQZKeXNuaJ-7FeQ/HJHS3fZfn
 [hc-review-w6-video]: https://www.youtube.com/watch?v=CUdoSwmppdw
 [hc-review-w7-slide]: https://hackmd.io/@gtcoding/ByG3r6xmh
+[hc-review-w11-slide]: https://hackmd.io/@SWTRVHQhQZKeXNuaJ-7FeQ/SyPu9qQHh
+[hc-review-w11-video]: https://www.youtube.com/watch?v=v4YnuV-XWVw
 
 [tp-review-w1-slide]: https://drive.google.com/file/d/1JFUNkmVpmACOC3G41bfRtKFoemQJ7WP-/view?usp=sharing
 [tp-review-w1-video]: https://youtu.be/w6yxwzDqHiE
@@ -88,5 +90,7 @@
 [neoj-878]: https://neoj.sprout.tw/problem/878/
 
 [neoj-1146]: https://neoj.sprout.tw/problem/1146/
+
+
 
 
