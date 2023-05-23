@@ -152,10 +152,11 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 動態陣列 | [Week12 Dynamic Arrays][tp-dynamic-array-slide] | [Week12 Dynamic Arrays][hc-dynamic-array-slide] | [北區影片上][tp-dynamic-array-video1]  [北區影片下][tp-dynamic-array-video2] |
+| 動態陣列 | [Week12 Dynamic Arrays][tp-dynamic-array-slide] | [Week12 Dynamic Arrays][hc-dynamic-array-slide] | [北區影片上][tp-dynamic-array-video1]  [北區影片下][tp-dynamic-array-video2]<br> [竹區影片上][hc-dynamic-array-video1] [竹區影片下][hc-dynamic-array-video2]|
 
 [tp-dynamic-array-slide]: https://slides.com/allen522019/20230318-c-style
 [hc-dynamic-array-slide]: https://slides.com/gtcoding/sprout-2023-dynamic-arrays
 [tp-dynamic-array-video1]: https://www.youtube.com/watch?v=_M3jzdv4B3c
 [tp-dynamic-array-video2]: https://www.youtube.com/watch?v=0I9plnXpGr8
-
+[hc-dynamic-array-video1]: https://youtu.be/fK_hBKDlTF8
+[hc-dynamic-array-video2]: https://youtu.be/YJsgWMbVPIQ
