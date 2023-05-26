@@ -22,9 +22,17 @@
 | 0506 |  10  | <font color="#f00">大作業一繳交截止 (5/5)</font>          | <font color="#f00">第二階段準備週，本週放假 </font>                                                                        |
 | 0513 |  11  |           | struct、struct(*ptr)、簡單介紹 class、template                                                                                             |
 | 0520 |  12  |           | 複習class、new/delete、實作動態陣列                                                          |
-| 0527 |  13  |  大作業二公佈  | STL (資料結構, pair, vector, queue, stack, iterator)、C++ string、C++ file IO、try-except、大作業二                                                                |
-| 0603 |  14  |           | linked list、複雜度概念、基礎排序                         |
-| 0610 |  15  |           | 實用 library function (sort(cmp), next_permutation、亂數、sstream)、彈性時間                                                                                                                           |
+| 0527 |  13  |    | STL (資料結構, pair, vector, queue, stack, iterator)、C++ string、C++ file IO、**sstream**、try-except                                           |
+| 0603 |  14  | 06/02 前 <br />大作業二完整公佈 | linked list、==**大作業二**==             |
+| 0610 |  15  |           | 實用 library function (sort(cmp), next_permutation、亂數)、~~sstream~~ （移到第 13 週）、==**複雜度概念、基礎排序**==                                                                          |
 | 0617 |  16  |     | <font color="#888">(線上影片)  課程複習   </font>              |
 | 0624 |  17  |           | <font color="#f00">因端午節連假，故本週放假 </font>                                                                   |
-| 0701 |  18  |  <font color="#f00">大作業二繳交截止 (7/2)</font>         | 第二階段檢定考試                                            |
+| 0701 |  18  |           | 第二階段檢定考試                                            |
+| 0708 | 19 | <font color="#f00">大作業二書面報告繳交截止 (7/8 23:59)</font> | 大作業二成果發表會 |
+
+> **課程調整公告**
+>
+> - 原訂 Week 14 下半堂之「複雜度與基礎排序」改為「大作業二」
+> - 原訂 Week 15 下半堂之「彈性時間」改為「複雜度與基礎排序」
+> - 大作業二公布時間延至 06/02 23:59 前
+> - 大作業二書面報告繳交時間變更為 07/08 23:59 前
