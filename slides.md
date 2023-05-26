@@ -160,3 +160,11 @@
 [tp-dynamic-array-video2]: https://www.youtube.com/watch?v=0I9plnXpGr8
 [hc-dynamic-array-video1]: https://youtu.be/fK_hBKDlTF8
 [hc-dynamic-array-video2]: https://youtu.be/YJsgWMbVPIQ
+
+## 第十三週 05/27
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| C++ STL | [Week13 C++ STL][tp-stl-slides] | | |
+
+[tp-stl-slides]: https://www.beautiful.ai/player/-NWMBl4Zq2zJO9w9_3cH/Sprout-2023-C-STL
