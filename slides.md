@@ -166,8 +166,9 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | C++ STL | [Week13 C++ STL][tp-stl-slides] | [Week13 C++ STL][hc-stl-slides]| |
-| C++ String, Stream I/O and Exception Handling | | [Week13 C++ string][hc-string-slides]| |
+| C++ String, Stream I/O and Exception Handling | [Week13 C++ String, Stream I/O and Exception Handling (Without Answer)][tp-string-slides-1]| [Week13 C++ string][hc-string-slides]| |
 
 [tp-stl-slides]: https://www.beautiful.ai/player/-NWMBl4Zq2zJO9w9_3cH/Sprout-2023-C-STL
 [hc-stl-slides]: https://slides.com/rassss/stl
 [hc-string-slides]: https://docs.google.com/presentation/d/1XZxIxh_lWkJCamKzZml0p1uOc-N7Pesb_vErHKFNdwI/edit?usp=sharing
+[tp-string-slides-1]:https://drive.google.com/file/d/1AGyL_xGngOc8Qeuvrof-Yuhx0Uz1dPRY/view
