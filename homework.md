@@ -16,7 +16,7 @@
 | 0506 |  10  |       |          |          |      |
 | 0513 |  11  | [895 - 成績統計II][neoj-895]<br>[595 - template練習][neoj-595] |   [366 - 電話銷售員][neoj-366] <br> [878 - 愁眉苦臉的小暄和懶惰的 Ruby][neoj-878]     | [596 - class存取權限練習][neoj-596]<br>[597 - class + template 混合練習題][neoj-597]         | [竹區檢討講義][hc-review-w11-slide] [竹區檢討影片][hc-review-w11-video]     |
 | 0520 |  12  | [1146 - Just like stack][neoj-1146] |  [1997 - 身分組][neoj-1997]        |          |  [北區檢討講義][tp-review-w12-slide] [北區檢討影片][tp-review-w12-video] <br> [竹區檢討講義][hc-review-w12-slide] [竹區檢討影片][hc-review-w12-video]    |
-| 0527 |  13  |    [441 - 禮貌校園][neoj-441]   |    [3157 - lemon 與文章][neoj-3157]      |          |      |
+| 0527 |  13  |    [441 - 禮貌校園][neoj-441] <br> [442 - 向量加法][neoj-442]  |    [3157 - lemon 與文章][neoj-3157]      |          |      |
 | 0603 |  14  |       |          |          |      |
 | 0610 |  15  |       |          |          |      |
 | 0617 |  16  |       |          |          |      |
@@ -93,6 +93,7 @@
 [neoj-895]: https://neoj.sprout.tw/problem/895/
 
 [neoj-441]: https://neoj.sprout.tw/problem/441/
+[neoj-442]: https://neoj.sprout.tw/problem/442/
 [neoj-878]: https://neoj.sprout.tw/problem/878/
 
 [neoj-1146]: https://neoj.sprout.tw/problem/1146/
