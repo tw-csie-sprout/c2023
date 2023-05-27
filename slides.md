@@ -165,11 +165,12 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| C++ STL | [Week13 C++ STL][tp-stl-slides] | [Week13 C++ STL][hc-stl-slides] [北區影片][tp-stl-video]| |
-| C++ String, Stream I/O and Exception Handling | [Week13 C++ String, Stream I/O and Exception Handling (Without Answer)][tp-string-slides-1]| [Week13 C++ string][hc-string-slides]| |
+| C++ STL | [Week13 C++ STL][tp-stl-slides] | [Week13 C++ STL][hc-stl-slides] | [北區影片][tp-stl-video]|
+| C++ String, Stream I/O and Exception Handling | [Week13 C++ String, Stream I/O and Exception Handling (這週只有教到第 22 頁)][tp-string-slides-1] | [Week13 C++ string][hc-string-slides]|[北區影片][tp-string-video] |
 
 [tp-stl-slides]: https://www.beautiful.ai/player/-NWMBl4Zq2zJO9w9_3cH/Sprout-2023-C-STL
 [hc-stl-slides]: https://slides.com/rassss/stl
 [hc-string-slides]: https://docs.google.com/presentation/d/1XZxIxh_lWkJCamKzZml0p1uOc-N7Pesb_vErHKFNdwI/edit?usp=sharing
-[tp-string-slides-1]:https://drive.google.com/file/d/1AGyL_xGngOc8Qeuvrof-Yuhx0Uz1dPRY/view
+[tp-string-slides-1]:https://drive.google.com/file/d/15xb01qu3TJMluNrXRJo3gwRx2yDQLYrK/view?usp=sharing
 [tp-stl-video]: https://www.youtube.com/watch?v=2uO2IImKjuI
+[tp-string-video]: https://youtu.be/FcohAk2AbRk

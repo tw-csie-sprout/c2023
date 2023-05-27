@@ -22,9 +22,9 @@
 | 0506 |  10  | <font color="#f00">大作業一繳交截止 (5/5)</font>          | <font color="#f00">第二階段準備週，本週放假 </font>                                                                        |
 | 0513 |  11  |           | struct、struct(*ptr)、簡單介紹 class、template                                                                                             |
 | 0520 |  12  |           | 複習class、new/delete、實作動態陣列                                                          |
-| 0527 |  13  |    | STL (資料結構, pair, vector, queue, stack, iterator)、C++ string、C++ file IO、**sstream**、try-except                                           |
-| 0603 |  14  | 06/02 前 <br />大作業二完整公佈 | linked list、==**大作業二**==             |
-| 0610 |  15  |           | 實用 library function (sort(cmp), next_permutation、亂數)、~~sstream~~ （移到第 13 週）、==**複雜度概念、基礎排序**==                                                                          |
+| 0527 |  13  |    | STL (資料結構, pair, vector, queue, stack, iterator)、C++ string                                           |
+| 0603 |  14  | 06/02 前 <br />大作業二完整公佈 | linked list、**Stream I/O、例外處理、大作業二** |
+| 0610 |  15  |           | 實用 library function (sort(cmp), next_permutation、亂數)、~~sstream~~ （移到第 13 週）、==**複雜度概念、基礎排序**==                                                                        |
 | 0617 |  16  |     | <font color="#888">(線上影片)  課程複習   </font>              |
 | 0624 |  17  |           | <font color="#f00">因端午節連假，故本週放假 </font>                                                                   |
 | 0701 |  18  |           | 第二階段檢定考試                                            |
