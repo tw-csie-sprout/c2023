@@ -174,3 +174,12 @@
 [tp-string-slides-1]:https://drive.google.com/file/d/15xb01qu3TJMluNrXRJo3gwRx2yDQLYrK/view?usp=sharing
 [tp-stl-video]: https://www.youtube.com/watch?v=2uO2IImKjuI
 [tp-string-video]: https://youtu.be/FcohAk2AbRk
+
+## 第十四週 06/03
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| Linked List |                 | [Week14 Linked List][hc-linkedlist-slides]     |      |
+| 彈性時間         |                 | 大作業講解     |      |
+
+[hc-linkedlist-slides]: https://slides.com/rassss/deck-ec54d2
