@@ -180,6 +180,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | Linked List |                 | [Week14 Linked List][hc-linkedlist-slides]     |      |
-| 彈性時間         |                 | 大作業講解     |      |
+| 彈性時間         |                 | [大作業講解][tmp-link]     |      |
 
 [hc-linkedlist-slides]: https://slides.com/rassss/deck-ec54d2
+[tmp-link]: https://bensonchiu.notion.site/888c3f379dda465f8d4b66cd2691aab9?v=abe7d23835b84a348c201ac1be20b267
