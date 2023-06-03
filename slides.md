@@ -179,9 +179,13 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| Linked List |                 | [Week14 Linked List][hc-linkedlist-slides]     |      |
-| 彈性時間         | [Week13 C++ String, Stream I/O and Exception Handling (完)][tp-string-slides-1] | [大作業講解][tmp-link]     |   [北區影片][tp-stream-video]   |
+| Linked List |     [Week14 Linked List][tp-linkedlist-slides]      | [Week14 Linked List][hc-linkedlist-slides]     |   [北區影片][tp-linkedlist-video]    |
+| 彈性時間         | [Week13 C++ String, Stream I/O and Exception Handling (完)][tp-string-slides-1]<br> [Week14 隨機主題分享][tp-random-slides] | [大作業講解][tmp-link]  |   [北區 stream 影片][tp-stream-video]<br>[北區隨機主題影片][tp-random-video]   |
 
 [hc-linkedlist-slides]: https://slides.com/rassss/deck-ec54d2
 [tmp-link]: https://bensonchiu.notion.site/888c3f379dda465f8d4b66cd2691aab9?v=abe7d23835b84a348c201ac1be20b267
 [tp-stream-video]: https://youtu.be/sURis_EhzXk
+[tp-linkedlist-slides]: https://slides.com/seanhuang1228/deck-1d3a4f
+[tp-random-slides]: https://slides.com/b10902001/deck
+[tp-linkedlist-video]: https://youtu.be/0zoHYOnhg4A
+[tp-random-video]: https://youtu.be/BGU5oQEnmB0
