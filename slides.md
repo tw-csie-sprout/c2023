@@ -180,7 +180,8 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | Linked List |                 | [Week14 Linked List][hc-linkedlist-slides]     |      |
-| 彈性時間         |                 | [大作業講解][tmp-link]     |      |
+| 彈性時間         | [Week13 C++ String, Stream I/O and Exception Handling (完)][tp-string-slides-1] | [大作業講解][tmp-link]     |   [北區影片][tp-stream-video]   |
 
 [hc-linkedlist-slides]: https://slides.com/rassss/deck-ec54d2
 [tmp-link]: https://bensonchiu.notion.site/888c3f379dda465f8d4b66cd2691aab9?v=abe7d23835b84a348c201ac1be20b267
+[tp-stream-video]: https://youtu.be/sURis_EhzXk
