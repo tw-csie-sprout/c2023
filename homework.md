@@ -18,7 +18,7 @@
 | 0520 |  12  | [1146 - Just like stack][neoj-1146] |  [1997 - 身分組][neoj-1997]        |          |  [北區檢討講義][tp-review-w12-slide] [北區檢討影片][tp-review-w12-video] <br> [竹區檢討講義][hc-review-w12-slide] [竹區檢討影片][hc-review-w12-video]    |
 | 0527 |  13  | [441 - 禮貌校園][neoj-441] <br> [442 - 向量加法][neoj-442] <br />[20 - 中國人排隊問題][neoj-20] |    [3157 - lemon 與文章][neoj-3157]      |          | 因北區還沒教完<br />**故北區學員課堂練習只需要完成 441** <br> [北區檢討講義][tp-review-w13-slide] |
 | 0603 |  14  | [250 - Singly Linked List][neoj-250]<br /> [442 - 向量加法][neoj-442] |  [589 - 管理貨櫃][neoj-589]  <br> [1331 - 奇怪的火車問題][neoj-1331]     |   [170 - Doubly Linked List][neoj-170]       | 北區要另外寫 442 ㄛ<br> [Linked List 練習題 DEMO][linked_list_demo] |
-| 0610 |  15  |       |          |          |      |
+| 0610 |  15  |       |  [2338 - 小普的密碼][neoj-2338]  |          |      |
 | 0617 |  16  |       |          |          |      |
 | 0624 |  17  |   端午節放假    |          |          |      |
 | 0701 |  18  |   第二階段檢定    |          |          |      |
@@ -111,3 +111,4 @@
 
 [linked_list_demo]: https://youtu.be/GIki68Hlbyg
 
+[neoj-2338]: https://neoj.sprout.tw/problem/2338/
