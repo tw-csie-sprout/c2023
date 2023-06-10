@@ -195,6 +195,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 好用 function |           |  [Week15 好用function][hc-stl-function]    |      |
-| 複雜度         |  | 
+| 複雜度         |  | [Week15 複雜度&基礎排序][hc-sorting] |
 
 [hc-stl-function]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
+[hc-sorting]: https://slides.com/rassss/deck-a7e917
