@@ -189,3 +189,11 @@
 [tp-random-slides]: https://slides.com/b10902001/deck
 [tp-linkedlist-video]: https://youtu.be/0zoHYOnhg4A
 [tp-random-video]: https://youtu.be/BGU5oQEnmB0
+
+## 第十五週 06/10
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| 好用 function |           |  [Week15 好用function][hc-stl-funtion]    |      |
+| 複雜度         |  | 
+[hc-stl-funtion]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
