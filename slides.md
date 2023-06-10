@@ -194,6 +194,6 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 好用 function |           |  [Week15 好用function][hc-stl-funtion]    |      |
+| 好用 function |           |  [Week15 好用function][hc-stl-function]    |      |
 | 複雜度         |  | 
-[hc-stl-funtion]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
+[hc-stl-function]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
