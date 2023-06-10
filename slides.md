@@ -194,9 +194,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 好用 function | [Week15 好用function][tp-stl-function]          |  [Week15 好用function][hc-stl-function]    |      |
+| 好用 function | [Week15 好用function][tp-stl-function]          |  [Week15 好用function][hc-stl-function]    |  [北區影片][tp-stl-function-video]    |
 | 複雜度         |  | [Week15 複雜度&基礎排序][hc-sorting] |
 
 [hc-stl-function]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
 [hc-sorting]: https://slides.com/rassss/deck-a7e917
 [tp-stl-function]:https://drive.google.com/file/d/1kdxIKwa7W7g0rzdEtE6WpCQFSNRwX2y2/view?usp=sharing
+[tp-stl-function-video]:https://www.youtube.com/watch?v=ys0Ho3x9Kto
