@@ -196,4 +196,5 @@
 | -------- | --------------- | ---- | ---- |
 | 好用 function |           |  [Week15 好用function][hc-stl-function]    |      |
 | 複雜度         |  | 
+
 [hc-stl-function]: https://slides.com/s0n9yu/deck-8f7710/fullscreen
