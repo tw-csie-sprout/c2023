@@ -201,3 +201,11 @@
 [hc-sorting]: https://slides.com/rassss/deck-a7e917
 [tp-stl-function]:https://drive.google.com/file/d/1kdxIKwa7W7g0rzdEtE6WpCQFSNRwX2y2/view?usp=sharing
 [tp-stl-function-video]:https://www.youtube.com/watch?v=ys0Ho3x9Kto
+
+## 第十六週 06/17
+
+| 主題     | 北區            | 竹區 | 影片 |
+| -------- | --------------- | ---- | ---- |
+| 複習 |           |  [Week16 複習][hc-review2]    |  [竹區影片][hc-review2]  |
+
+[hc-review2]: https://youtu.be/qVY7t-EsWXo
