@@ -206,6 +206,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 複習 |           |  [Week16 複習][hc-review2]    |  [竹區影片][hc-review2]  |
+| 複習 |           |  [Week16 複習][hc-review2-slides]    |  [竹區影片][hc-review2]  |
 
 [hc-review2]: https://youtu.be/qVY7t-EsWXo
+[hc-review2-slides]: https://drive.google.com/file/d/1YI20rJwnrMC23AEPdwZScbXGFG5VrTs2/view?usp=sharing
